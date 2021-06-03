@@ -15,22 +15,21 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/lravel-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodjs/nodjs-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodjs/nodejs-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
 
 <!--

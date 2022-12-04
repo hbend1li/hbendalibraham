@@ -6,6 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbendalibraham&hide_border=true&count_private=true&show_icons=true&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/b2fe88fa-4e7d-4dfc-9870-c6eb16f359a6.svg)](https://wakatime.com/@b2fe88fa-4e7d-4dfc-9870-c6eb16f359a6)
 
 
 ### Skills
